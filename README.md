@@ -6,10 +6,10 @@
   Deliver a streamlined, comprehensive solution that improves operational efficiency, enhances user engagement and self-service capabilities, and supports the organization’s long-term vision for a knowledge-driven environment.
 ## Objectives
 ### Business Goals:
-  Minimize the volume of support tickets by increasing self-service resolution rates.
-  Standardize the knowledge article creation and approval process to maintain high-quality content.
-  Foster a culture of continuous improvement in knowledge sharing and accessibility.
+  - Minimize the volume of support tickets by increasing self-service resolution rates.
+  - Standardize the knowledge article creation and approval process to maintain high-quality content.
+  - Foster a culture of continuous improvement in knowledge sharing and accessibility.
 ### Specific Outcomes:
-  Creation and deployment of a defined workflow for article creation, review, and approval.
-  Enhanced end-user experience through accurate, relevant, and easily searchable content.
-  Reduction in ticket backlog due to more self-resolved incidents.
+  - Creation and deployment of a defined workflow for article creation, review, and approval.
+  - Enhanced end-user experience through accurate, relevant, and easily searchable content.
+  - Reduction in ticket backlog due to more self-resolved incidents.
